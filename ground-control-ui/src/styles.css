@@ -1,0 +1,13 @@
+@import "assets/spectre.css";
+
+header {
+    margin: 50px;
+}
+.container {
+    margin: auto;
+}
+
+.container .logo{
+    margin-bottom: 15px;
+    text-align: center;
+}
